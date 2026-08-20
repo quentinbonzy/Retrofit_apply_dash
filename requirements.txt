@@ -1,0 +1,16 @@
+
+pandas==2.3.2
+numpy==1.26.4
+dash==4.4.1
+dash-bootstrap-components==2.0.4
+requests==2.34.2
+pytsas==6.8.1
+urllib3==1.26.15
+deprecated==1.3.1
+deprecation==2.1.0
+dash-interactive-graphviz==0.3.0
+pygithub==2.6.1
+pyarrow==20.0.0
+blast==1.0.1
+flask==3.1.3
+certifix==0.1.30
