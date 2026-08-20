@@ -13,4 +13,4 @@ app.layout = layout()
 
 if __name__ == '__main__':
     # Remplacé par app.run avec le host pour autoriser TSAS à se connecter
-    app.run(host='0.0.0.0', port=9036, debug=False)
+    app.run(host='0.0.0.0', port=8050, debug=False)
