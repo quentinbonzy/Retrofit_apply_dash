@@ -13,7 +13,6 @@ import os
 
 from typing import Dict, Any, Optional, List
 # LIGNE CI-DESSOUS COMMENTÉE POUR ÉVITER LE CRASH "No module named assets" :
-# from assets.unbalance_tables import tables_dic_loads, tables_dic_pos 
 from pytsas.api import Api
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
